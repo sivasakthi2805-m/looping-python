@@ -1,1 +1,1 @@
-# looping-python
+# day2-python
